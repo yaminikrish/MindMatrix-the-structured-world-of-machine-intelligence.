@@ -7,7 +7,10 @@ It focuses on creating algorithms and models that can automatically detect patte
 
 <h2>Types of Machine Learning</h2>
 
+# Types of Machine Learning
+
 <img src="https://thumbs.dreamstime.com/b/types-machine-learning-algorithms-classification-outline-diagram-types-machine-learning-algorithms-classification-image260201316.jpg" alt="Types of Machine Learning" width="600">
+
 
 <h3>1️⃣ Supervised Learning</h3>
 <p><strong>Definition:</strong> A learning method where the model is trained on <strong>labeled data</strong>, meaning we have:</p>
