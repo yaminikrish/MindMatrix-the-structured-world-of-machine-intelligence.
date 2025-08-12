@@ -1,4 +1,5 @@
-# MindMatrix-the-structured-world-of-machine-intelligence.
+# MindMatrix
+**The Structured World Of Machine Intelligence**
 
 <h1>Machine Learning </h1>
 
