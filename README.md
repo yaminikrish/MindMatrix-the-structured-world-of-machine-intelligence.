@@ -81,7 +81,7 @@
 
 <hr>
 
-<h2>📌 Summary Table</h2>
+<h2>Summary Table</h2>
 <table border="1" cellpadding="5" cellspacing="0">
     <tr>
         <th>Type</th>
@@ -111,7 +111,6 @@
 
 <hr>
 
-<p><strong>Author:</strong> Your Name</p>
-<p><strong>Acknowledgement:</strong> This content was prepared for educational purposes and to guide learners in understanding Machine Learning concepts from scratch.</p>
+
 
 
