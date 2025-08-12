@@ -1,9 +1,13 @@
 # MindMatrix-the-structured-world-of-machine-intelligence.
-<h1>Machine Learning Overview</h1>
 
-<p>Machine Learning (ML) is a branch of Artificial Intelligence (AI) that enables computers to learn from data without being explicitly programmed. It focuses on developing algorithms that improve automatically through experience.</p>
+<h1>Machine Learning </h1>
+
+<p>Machine Learning (ML) is a branch of artificial intelligence (AI) that enables computer systems to learn from data and improve their performance over time without being explicitly programmed.
+It focuses on creating algorithms and models that can automatically detect patterns, make predictions, and adapt to new information.</p>
 
 <h2>Types of Machine Learning</h2>
+
+<img src="https://thumbs.dreamstime.com/b/types-machine-learning-algorithms-classification-outline-diagram-types-machine-learning-algorithms-classification-image260201316.jpg" alt="Types of Machine Learning" width="600">
 
 <h3>1️⃣ Supervised Learning</h3>
 <p><strong>Definition:</strong> A learning method where the model is trained on <strong>labeled data</strong>, meaning we have:</p>
